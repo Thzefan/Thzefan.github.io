@@ -1,5 +1,5 @@
 # Week 3 — CSS Basics Practice
-**Student:** Имя Фамилия  
+**Student:** Shekerbekov Adylkhan  
 **Course:** Web & Internet Technologies  
 **Week:** 3
 
